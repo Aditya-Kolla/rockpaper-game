@@ -1,0 +1,16 @@
+{
+  "main.css": "/rockpaper-game/static/css/main.00221c8e.chunk.css",
+  "main.js": "/rockpaper-game/static/js/main.91bff2e8.chunk.js",
+  "main.js.map": "/rockpaper-game/static/js/main.91bff2e8.chunk.js.map",
+  "static/js/1.ac52dc1e.chunk.js": "/rockpaper-game/static/js/1.ac52dc1e.chunk.js",
+  "static/js/1.ac52dc1e.chunk.js.map": "/rockpaper-game/static/js/1.ac52dc1e.chunk.js.map",
+  "runtime~main.js": "/rockpaper-game/static/js/runtime~main.afac6aff.js",
+  "runtime~main.js.map": "/rockpaper-game/static/js/runtime~main.afac6aff.js.map",
+  "static/css/main.00221c8e.chunk.css.map": "/rockpaper-game/static/css/main.00221c8e.chunk.css.map",
+  "static/media/rock.png": "/rockpaper-game/static/media/rock.4dcc12c0.png",
+  "static/media/scissor.png": "/rockpaper-game/static/media/scissor.8df80dd3.png",
+  "static/media/paper.png": "/rockpaper-game/static/media/paper.1ef92cf2.png",
+  "index.html": "/rockpaper-game/index.html",
+  "precache-manifest.5d4f8257433fc797c53f0e949e6d134c.js": "/rockpaper-game/precache-manifest.5d4f8257433fc797c53f0e949e6d134c.js",
+  "service-worker.js": "/rockpaper-game/service-worker.js"
+}
