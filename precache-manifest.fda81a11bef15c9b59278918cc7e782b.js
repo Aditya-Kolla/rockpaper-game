@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
     "revision": "8df80dd3505eb1858b49327acd63dcbb",
-    "url": "/rockpaper-game/static/media/scissor.8df80dd3.png"
+    "url": "/rockpaper-game/static/media/scissors.8df80dd3.png"
   },
   {
     "revision": "4dcc12c0f8dddc9d8f72f159bb012bc0",
@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/rockpaper-game/static/js/runtime~main.afac6aff.js"
   },
   {
-    "revision": "91bff2e87cfd9b48199d",
-    "url": "/rockpaper-game/static/js/main.91bff2e8.chunk.js"
+    "revision": "4ee6476738a2b36d268d",
+    "url": "/rockpaper-game/static/js/main.4ee64767.chunk.js"
   },
   {
     "revision": "ac52dc1e9c911371b131",
     "url": "/rockpaper-game/static/js/1.ac52dc1e.chunk.js"
   },
   {
-    "revision": "91bff2e87cfd9b48199d",
-    "url": "/rockpaper-game/static/css/main.00221c8e.chunk.css"
+    "revision": "4ee6476738a2b36d268d",
+    "url": "/rockpaper-game/static/css/main.ee303921.chunk.css"
   },
   {
-    "revision": "4b432d418d07534cb2d1ac3a0ba11b32",
+    "revision": "ba90e55509a5808d2991a00eeae789ab",
     "url": "/rockpaper-game/index.html"
   }
 ];

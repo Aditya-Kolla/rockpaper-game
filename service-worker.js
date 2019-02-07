@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rockpaper-game/precache-manifest.5d4f8257433fc797c53f0e949e6d134c.js"
+  "/rockpaper-game/precache-manifest.fda81a11bef15c9b59278918cc7e782b.js"
 );
 
 workbox.clientsClaim();
