@@ -1,3 +1,6 @@
+To view the project, please go to: https://aditya-kolla.github.io/rockpaper-game/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
